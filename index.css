@@ -1,10 +1,67 @@
+body {
+    background-color: lightcoral;
+}
+
 .header {
     text-align:center;
     margin:auto 0;
     border-style:double;
 }
 
-p.header {
+h1.header {
+    background-color:antiquewhite
+}
+
+p.header{
     width: 200px;
 }
 
+h3 {
+    text-align:left;
+    background-color:bisque;
+    border-style:solid;
+    width: 130px;
+}
+
+section.canned {
+    background-color:lavenderblush;
+   display:inline-block;
+   margin-right:10px;
+   padding-left:2px;
+   padding-right:2px;
+}
+
+section.dry {
+    background-color:lavenderblush;
+    display:inline-block;
+    margin-right:10px;
+   padding-left:2px;
+   padding-right:2px;
+}
+
+section.veggies {
+    background-color:lavenderblush;
+    display:inline-block;
+    margin-right:10px;
+   padding-left:2px;
+   padding-right:2px;
+}
+
+section.snacks {
+    background-color:lavenderblush;
+    display:inline-block;
+    margin-right:10px;
+   padding-left:2px;
+   padding-right:2px;
+}
+
+h4 {
+    text-align:center;
+    border-style:solid;
+    margin-top:3px;
+}
+
+img {
+    display:inline-block;
+    width:100px
+}
