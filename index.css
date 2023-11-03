@@ -1,15 +1,7 @@
-body {
-    background-color: lightcoral;
-}
-
 .header {
     text-align:center;
     margin:auto 0;
     border-style:double;
-}
-
-h1.header {
-    background-color:antiquewhite
 }
 
 p.header{
@@ -22,7 +14,7 @@ h3 {
     text-align:left;
     background-color:bisque;
     border-style:solid;
-    width: 130px;
+    width: 120px;
 }
 
 section.canned {
