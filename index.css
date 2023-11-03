@@ -1,0 +1,10 @@
+.header {
+    text-align:center;
+    margin:auto 0;
+    border-style:double;
+}
+
+p.header {
+    width: 200px;
+}
+
