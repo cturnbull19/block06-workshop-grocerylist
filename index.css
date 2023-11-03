@@ -57,7 +57,8 @@ h4 {
 
 img {
     display:inline-block;
-    width:100px
+    width:100px;
+    padding-top: 10px
 }
 
 ul.pantry {
